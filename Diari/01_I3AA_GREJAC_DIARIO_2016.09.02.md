@@ -8,10 +8,17 @@ Dalle 10:05 fino alle 10:40 circa i docenti Luca Muggiasca e Massimo Sartori ci 
 Una volta lette le regole ci è stato introdotto il primo progetto che dovremo svolgere. Esso consiste nel creare un case per arduino oppure un supporto per l'arduino e la breadboard. Per ulteriori dettagli sul progetto si può visionare il file nella cartella del modulo in lettura.
 Finita la presentazione riguardante il progetto, ci è stato introdotto un nuovo tipo di programma: "Versioning software". Essi permettono di tenere traccia del lavoro svolto ad esempio su un codice. Posso vedere le modifiche fatte da una sessione all'altra e, in caso, posso ripristinare una versione precedente funzionante.
 In questo modulo useremo usiamo "GitHub". 
+Nel pomeriggio, dalle 13:15 fino alle 16 circa, abbiamo provato a scaricare GitHub e ad utilizzarlo. Si sono verificati dei problemi che tratterò nel punto seguente. 
+L'ultima mezz'ora è stata dedicata alla teoria su come creare i diari delle lezioni e sulla loro creazione.
 
 PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 
-PUNTO DELLA SITUAZIONE RISPETTO ALLA PIANIFICAZIONE
+Durante il pomeriggio è successo il putiferio. Nessuno riusciva a connettersi all'account di GIT tramite Sourcetree (interfaccia grafica locale) poiché come ben sappiamo il proxy della scuola ci da sempre problemi. Inizialmente ho provato a seguire una guida fornitaci da Muggiasca, ma non sono riuscito a sistemare il problema. Ad un certo punto dovevo modificare un file (.gitcongif) che non riuscivo a trovare. Ho provato un altro metodo. Ho scaricato un'altra versione di GIT per il desktop. Dopo vari tentativi sono riuscito a connettermi, ma avevo ancora il problema del file che non trovato. Tramite una guida trovata in un forum sono riuscito a trovare il file e sono riuscito a modificarlo con successo. Successivamente il problema è stato risolto. Ma, ovviamente, ho riscontrato un ulteriore problema. Dato che dobbiamo conservare il diario in un'apposita cartella dentro una determinata repositories, ho pensato di eliminare le 2 che avevo creato per prova. Una volta eliminate non mi viene più data la possibilità di clonare la cartella in locale sul desktop. In questo week-end cercherò di trovare una soluzione a questo problema inaspettato.
 
+PUNTO DELLA SITUAZIONE RISPETTO ALLA PIANIFICAZIONE
+ 
+Nulla
+ 
 PROGRAMMA DI MASSIMA PER LA PROSSIMA GIORNATA DI LAVORO 
  
+Per la prossimo lezione punto a sistemare il problema che ho riscontrato nella clonazione della repositories sul desktop in locale. 
