@@ -11,9 +11,17 @@ In seguito ci è stato distribuito un foglio sul quale è possibile visionare i 
 Come ultima cosa trattata durante le 3 ore del mattino, abbiamo analizzato un modello di documentazione. Esso illustra come deve essere strutturata la documentazione che redigeremo per il progetto.
 
 Dalla 13:15 fino alle 15:45 abbiamo svolto altre attività.
+Abbiamo visionato una seconda documentazione. Essa era incentrata sull'ambito dei test da eseguire una volta sviluppato il progetto.
+Abbiamo discusso il tema del "ciclo di vita di un software" tramite l'ausilio di un powerpoint e infine ogni gruppo ha scritto alla lavagna delle potenziali domande da chiedere al docente la prossima settimana.
 
 PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 
+Avendo fatto solamente teoria, non si può dire nulla.
+
 PUNTO DELLA SITUAZIONE RISPETTO ALLA PIANIFICAZIONE
 
+Abbiamo scritto alcune domande da porre al docente. Settimana prossima le porremo al docente e da lì faremo il punto della situazione.
+
 PROGRAMMA DI MASSIMA PER LA PROSSIMA GIORNATA DI LAVORO
+
+Puntiamo a fare tutte le domande preparate in classe al docente. Se dovessere venire in mente altre domande, le faremo. Una volta svolta questa attività io punto a fare un disegno di come potrebbe apparire un primo prototipo del progetto.
