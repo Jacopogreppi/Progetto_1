@@ -13,6 +13,7 @@ Come ultima cosa trattata durante le 3 ore del mattino, abbiamo analizzato un mo
 Dalla 13:15 fino alle 15:45 abbiamo svolto altre attività.
 Abbiamo visionato una seconda documentazione. Essa era incentrata sull'ambito dei test da eseguire una volta sviluppato il progetto.
 Abbiamo discusso il tema del "ciclo di vita di un software" tramite l'ausilio di un powerpoint e infine ogni gruppo ha scritto alla lavagna delle potenziali domande da chiedere al docente la prossima settimana.
+Le domande saranno riguardanti il materiale da usare, le dimensioni del supporto, il budget disponibile, il fatto se sarà possibile girare il supporto senza far cadere l'arduino, i supporti per spostarlo, dove saranno situati i pezzi, se si vorranno degli spazi per gli attacchi USB e alimentazine e la tempistica.
 
 PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 
