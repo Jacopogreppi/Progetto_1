@@ -15,7 +15,7 @@ Una volta conclusa la presentazione powerpoint, dalle 11 fino alle 11:35, ci sia
      
   2) Di che dimensioni deve essere l'Holder? (altezza, larghezza e spessore).
      
-     Non vi sono delle dimensioni specifiche. Siamo liberi. L'unica restrizione sta nelle misure massime (30cm X 30cm X 5cm).
+     Non vi sono delle dimensioni specifiche. Siamo liberi. L'unica restrizione sta nelle misure massime (30cm X 30cm X [da definire]cm).
      
   3) Essendo questo un progetto, dobbiamo cercare di rimanere in un determinato ed ipotetico budget?
      
