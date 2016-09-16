@@ -11,7 +11,10 @@ Una volta conclusa la presentazione powerpoint, dalle 11 fino alle 11:35, ci sia
 
   1) Che materiali abbiamo a disposizione per realizzare il progetto? Oltre alla struttra di compensato, ci è permesso usare altri tipi di      materiali per realizzare delle aggiunte? (come ad esempio del ferro per realizzare i sostegni per spostare il supporto).
   
-     La struttura dell'Holder deve essere obbligatoriamente realizzata in compensato. Abbiamo il permesso di utilizzare altri materiali per delle aggiunte. Bisogna dichiararlo al docente in modo tale che gli eventuali componenti possano arrivare per tempo. Bisogna inoltre fare una lista dei materiali da consegnare al docente.
+     La struttura dell'Holder deve essere obbligatoriamente realizzata in compensato.
+     Abbiamo il permesso di utilizzare altri materiali per delle aggiunte.
+     Bisogna dichiararlo al docente in modo tale che gli eventuali componenti possano arrivare per tempo.
+     Bisogna inoltre fare una lista dei materiali da consegnare al docente.
      
   2) Di che dimensioni deve essere l'Holder? (altezza, larghezza e spessore).
      
