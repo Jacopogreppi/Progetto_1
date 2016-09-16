@@ -63,6 +63,8 @@ Una volta conclusa la presentazione powerpoint, dalle 11 fino alle 11:35, ci sia
   12) Ci deve essere un metodo per poter chiudere l'Holder?
   
       Opzionale
+      
+Dalle 13:15 fino alle 15:45 abbiamo lavorato sulla documentazione. Abbiamo elaborato e trascritto i requisiti necessari per quetso progetto e io personalmente sto lavorando alla stesura dell'analisi del dominio. Inoltre i docenti ci hanno fatto vedere un powerpoint che illustra una situazione pratica dell'analisi dei beni e dei benefici di un certo tipo di progetto.
 
 PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 
