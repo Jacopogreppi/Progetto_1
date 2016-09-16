@@ -18,11 +18,13 @@ Una volta conclusa la presentazione powerpoint, dalle 11 fino alle 11:35, ci sia
      
   2) Di che dimensioni deve essere l'Holder? (altezza, larghezza e spessore).
      
-     Non vi sono delle dimensioni specifiche. Siamo liberi. L'unica restrizione sta nelle misure massime (30cm X 30cm X [da definire]cm).
+     Non vi sono delle dimensioni specifiche. Siamo liberi.
+     L'unica restrizione sta nelle misure massime (30cm X 30cm X [da definire]cm).
      
   3) Essendo questo un progetto, dobbiamo cercare di rimanere in un determinato ed ipotetico budget?
      
-     Non vi è un budget limitato, però dobbiamo tenere conto di quanto spendiamo. Sia per i vari materiali, sia per la nostra manodopera.
+     Non vi è un budget limitato, però dobbiamo tenere conto di quanto spendiamo. 
+     Sia per i vari materiali, sia per la nostra manodopera.
      
   4) L'Holder deve avere la possibilità di essere girato di 180° senza far cadere la breadboard e l'arduino?
   
@@ -34,7 +36,9 @@ Una volta conclusa la presentazione powerpoint, dalle 11 fino alle 11:35, ci sia
      
   6) La breadboard e l'arduino devono essere inseriti in una posizione specifica sull'Holder? (Magari il cliente ha una postazione fissa      dove dover usare l'arduino e quindi magari egli potrebbe volerlo in un determinato punto poiché gli risulta molto più semplice)
   
-     No, non devono essere in una posizione specifica. Bisogna tener conto però del fatto che deve essere possibile attacare i cavi. Deve essere il più comodo possibile e le uscite, ovviamente, devono essere verso l'esterno.
+     No, non devono essere in una posizione specifica. 
+     Bisogna tener conto però del fatto che deve essere possibile attacare i cavi.
+     Deve essere il più comodo possibile e le uscite, ovviamente, devono essere verso l'esterno.
      
   7) Ciò che permetterà all'arduino di restare fermo e di non spostarsi, deve offrire la possibilità di poter comunque collegare il cavo      USB e/o il cavo d'alimentazione?    
   
