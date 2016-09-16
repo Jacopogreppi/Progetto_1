@@ -40,6 +40,22 @@ Una volta conclusa la presentazione powerpoint, dalle 11 fino alle 11:35, ci sia
   8) Il cliente ha un determinato lasso di tempo nel quale desidera che l'Holder venga progettato e sviluppato?
   
      Il progetto dovrà essere consegnato entro venerdì 21 ottobre 2016.
+     
+  9) L'alimentazione dell'arduino la vuole direttamente sull'Holder oppure esterna?
+  
+     È opzionale
+     
+  10) Il cliente desidera avere l'Holder di un determinato colore? 
+  
+     È indifferente.
+     
+  11) Il cliente desidera avere una zona sull'Holder dove poter mettere dei componenti? (come ad esempio LED, pulsanti, ...).
+  
+      Sì.
+      
+  12) Ci deve essere un metodo per poter chiudere l'Holder?
+  
+      Opzionale
 
 PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 
