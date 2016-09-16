@@ -66,6 +66,14 @@ Una volta conclusa la presentazione powerpoint, dalle 11 fino alle 11:35, ci sia
 
 PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 
+  Durante queste 6 ore di progetto non ho riscontrato nessun problema.
+  Durante la stesura di un capitolo della documentazione ho avuto qualche dubbio, ma ho posto al docente delle domande e i miei dubbi sono stati risolti. 
+
 PUNTO DELLA SITUAZIONE RISPETTO ALLA PIANIFICAZIONE
 
+Al momento ho scritto sul diario le domande poste al docente e le relative risposte. 
+Per quanto riguarda la documentazione, ho terminato di elencare requisiti e sto lavorando sull'analisi del dominio.
+
 PROGRAMMA DI MASSIMA PER LA PROSSIMA GIORNATA DI LAVORO
+
+La prossima lezione punto a finire l'analisi del dominio e anche i punti che nella documentazione lo precedono
