@@ -14,4 +14,8 @@ Alla fine siamo riusciti a risolvere i problemi riscontrati ripetendo le nozioni
 
 PUNTO DELLA SITUAZIONE RISPETTO ALLA PIANIFICAZIONE
 
+Rispetto a ciò che prevede la pianificazione sono in orario dato che entro oggi è stato stabilito di fare il test, la teoria sugli Use case e l'eserczio inerente quest'ultimo.
+
 PROGRAMMA DI MASSIMA PER LA PROSSIMA GIORNATA DI LAVORO
+
+Per la prossima lezione, come ci è stato comunicato dai docenti, dovremo aver finito i requisiti sulla documentazione del progetto e dovremo aver fatto e implementato lo use case per il nostro progetto.
