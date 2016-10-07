@@ -12,7 +12,13 @@ Durante il pomeriggio abbiamo ultimato la struttura e finito la struttura dell'h
 
 PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 
+Durante questa lezione l'unico problema da me riscontrato è stato il fatto che non ho potuto cominciare a tagliare le varie parti per poter costuire l'Holder poiché il legno non era sufficiente. Non ho potuto ovviamente rimediare a ciò e ho dovuto lavorare ad altro. 
+
 PUNTO DELLA SITUAZIONE RISPETTO ALLA PIANIFICAZIONE
 
+Secondo la mia pianificazione sto rispettando ciò che è stato programmato
+
 PROGRAMMA DI MASSIMA PER LA PROSSIMA GIORNATA DI LAVORO
+
+La prossima lezione punto a tagliare tutte le parti in legno che mi servono e magari già a metterle assieme tra di loro dato che abbiamo 6 ore a nostra disposizione.
 
