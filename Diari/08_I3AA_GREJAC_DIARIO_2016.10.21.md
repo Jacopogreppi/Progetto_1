@@ -4,7 +4,7 @@ Data: 21.10.2016
 
 LAVORI SVOLTI
 
-Dalle 10:05 fino alle 11 abbiamo visto la teoria riguardante le presentazioni powerpoint, dato che dovremo presentare il nostro progetto. Abbiamo una presentazione nella quale sono illustrati i vari punti da rispettare per poter creare una presentazione che rispetti tutti i canoni. Abbiamo anche visionato una presentazione che mostra tutto ciò che non bisogna fare quando si crea una presentazione powerpoint.
+Dalle 10:05 fino alle 11 abbiamo visto la teoria riguardante le presentazioni powerpoint, dato che dovremo presentare il nostro progetto. Abbiamo visto una presentazione nella quale sono illustrati i vari punti da rispettare per poter creare una presentazione che rispetti tutti i canoni. Abbiamo anche visionato una presentazione che mostra tutto ciò che non bisogna fare quando si crea una presentazione powerpoint.
 Il resto del tempo, nel mio caso fino alle 16:10, è stato dedicato alla parte di montaggio dell'holder. Dopo ore di duro lavoro, sudore versato e parole poco carine verso diverse persone; sono riuscito a terminare tutto ciò che avevo previsto di fare nel mio progetto. Una volta finito, ho aiutato il docente a pulire l'aula e a portare i vari materiali in aula.
 
 
@@ -19,6 +19,6 @@ Ho svolto tutto ciò che è stato previsto di svolgere.
 
 PROGRAMMA DI MASSIMA PER LA PROSSIMA GIORNATA DI LAVORO
 
-Dato che i docenti hanno posticipato di una settimana la consegna della documentazione, tra 7 giorni punto ad avere quest'ultima allo stato dell'arte ed inoltre dovremo anche consegnare il powerpoint del progetto.
+Dato che i docenti hanno posticipato di una settimana la consegna della documentazione, tra 7 giorni punto ad avere quest'ultima allo stato dell'arte ed inoltre dovremo anche consegnare il powerpoint del progetto. Dato che i vari diari verranno valutati, mi occuperò di rivedere la struttura delle frasi da me scritte e, in caso, le riaddatterò utilizzando un linguaggio più consono e una struttura più adatta.
 
 
