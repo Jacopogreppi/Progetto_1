@@ -16,6 +16,8 @@ PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 
 Durante il pomeriggio è successo il putiferio. Nessuno riusciva a connettersi all'account di GitHub tramite Sourcetree (interfaccia grafica locale) poiché come ben sappiamo il proxy della scuola ci da sempre problemi. Inizialmente ho provato a seguire una guida fornitaci dal docente Luca Muggiasca, ma non sono riuscito a sistemare il problema. Ad un certo punto dovevo modificare un file (.gitcongif) che non riuscivo a trovare e quindi ho provato un altro metodo. Ho scaricato un'altra versione di GitHub, ma per il desktop questa volta. Dopo vari tentativi sono riuscito a connettermi, ma avevo ancora il problema del file che non trovato. Tramite una guida trovata in un forum sono riuscito a trovare il file e sono riuscito a modificarlo con successo. Successivamente il problema è stato risolto. Ma, ovviamente, ho riscontrato un ulteriore problema. Dato che dobbiamo conservare il diario in un'apposita cartella dentro una determinata repositories, ho pensato di eliminare le 2 che avevo creato per prova. Una volta eliminate non mi è stata più data la possibilità di clonare la cartella in locale sul desktop. In questo week-end cercherò di trovare una soluzione a questo problema inaspettato.
 
+NB: Il 28.10.2016 ho effettuato delle modifiche solamente alla struttura del testo per renderlo più comprensibile e per correggere degli errori.
+
 PUNTO DELLA SITUAZIONE RISPETTO ALLA PIANIFICAZIONE
  
 Nulla
