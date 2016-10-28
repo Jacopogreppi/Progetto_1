@@ -19,7 +19,7 @@ Una volta conclusa la presentazione powerpoint, dalle 11 fino alle 11:35, ci sia
   2) Di che dimensioni deve essere l'Holder? (altezza, larghezza e spessore).
      
      Non vi sono delle dimensioni specifiche. Siamo liberi.
-     L'unica restrizione sta nelle misure massime (30cm X 30cm X [da definire]cm).
+     L'unica restrizione sta nelle misure massime (30cm X 30cm X 0,8cm).
      
   3) Essendo questo un progetto, dobbiamo cercare di rimanere in un determinato ed ipotetico budget?
      
@@ -66,6 +66,8 @@ Una volta conclusa la presentazione powerpoint, dalle 11 fino alle 11:35, ci sia
       
 Dalle 13:15 fino alle 15:45 abbiamo lavorato sulla documentazione. Abbiamo elaborato e trascritto i requisiti necessari per questo progetto e io personalmente sto lavorando alla stesura dell'analisi del dominio. Inoltre i docenti ci hanno fatto vedere un powerpoint che illustra una situazione pratica dell'analisi dei beni e dei benefici di un certo tipo di progetto.
 
+NB: Il 28.10.2016 ho effettuato delle modifiche solamente alla struttura del testo per renderlo più comprensibile e per correggere degli errori.
+
 PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 
   Durante queste 6 ore di progetto non ho riscontrato nessun problema.
@@ -74,8 +76,8 @@ PROBLEMI RISCONTRATI E SOLUZIONI ADOTTATE
 PUNTO DELLA SITUAZIONE RISPETTO ALLA PIANIFICAZIONE
 
 Al momento ho scritto sul diario le domande poste al docente e le relative risposte. 
-Per quanto riguarda la documentazione, ho terminato di elencare requisiti e sto lavorando sull'analisi del dominio.
+Per quanto riguarda la documentazione, ho terminato di elencare i requisiti e sto lavorando sull'analisi del dominio.
 
 PROGRAMMA DI MASSIMA PER LA PROSSIMA GIORNATA DI LAVORO
 
-La prossima lezione punto a finire l'analisi del dominio e anche i punti che nella documentazione lo precedono
+La prossima lezione punto a finire l'analisi del dominio e anche i punti che nella documentazione lo precedono.
